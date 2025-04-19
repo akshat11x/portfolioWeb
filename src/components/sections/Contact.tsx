@@ -57,12 +57,7 @@ const Contact: React.FC = () => {
       icon: <Mail />,
       title: 'Email',
       content: 'akshatjain2k3@gmail.com',
-    },
-    {
-      icon: <Phone />,
-      title: 'Phone',
-      content: '8882636445',
-    },
+    }
   ];
 
   return (
