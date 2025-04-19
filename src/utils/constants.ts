@@ -89,29 +89,29 @@ export const PROJECTS: Project[] = [
 ];
 
 export const SKILLS: Skill[] = [
-  { name: 'HTML/CSS', icon: 'code', category: 'frontend', level: 5 },
-  { name: 'JavaScript', icon: 'code', category: 'frontend', level: 5 },
-  { name: 'TypeScript', icon: 'code', category: 'frontend', level: 4 },
-  { name: 'React', icon: 'code', category: 'frontend', level: 5 },
-  { name: 'Next.js', icon: 'code', category: 'frontend', level: 4 },
-  { name: 'Tailwind CSS', icon: 'code', category: 'frontend', level: 5 },
+  { name: 'PYTHON', icon: 'code', category: 'pl', level: 4 },
+  { name: 'JavaScript', icon: 'code', category: 'pl', level: 4 },
+  { name: 'JAVA', icon: 'code', category: 'pl', level: 4 },
+  { name: 'C', icon: 'code', category: 'pl', level: 3.5 },
+  { name: 'C++', icon: 'code', category: 'pl', level: 4.5 },
   
-  { name: 'Node.js', icon: 'server', category: 'backend', level: 4 },
-  { name: 'Express', icon: 'server', category: 'backend', level: 4 },
-  { name: 'MongoDB', icon: 'server', category: 'backend', level: 4 },
-  { name: 'PostgreSQL', icon: 'server', category: 'backend', level: 3 },
-  { name: 'Firebase', icon: 'server', category: 'backend', level: 4 },
-  { name: 'REST API', icon: 'server', category: 'backend', level: 5 },
+  
+  { name: 'Node.js', icon: 'server', category: 'fl', level: 4 },
+  { name: 'Express', icon: 'server', category: 'fl', level: 4 },
+  { name: 'MongoDB', icon: 'server', category: 'fl', level: 4 },
+  { name: 'Tensorflow', icon: 'server', category: 'fl', level: 3 },
+  { name: 'Flask', icon: 'server', category: 'fl', level: 4 },
+  { name: 'Numpy/Pandas', icon: 'server', category: 'fl', level: 5 },
   
   { name: 'Figma', icon: 'palette', category: 'design', level: 4 },
-  { name: 'Adobe XD', icon: 'palette', category: 'design', level: 3 },
+  // { name: 'Adobe XD', icon: 'palette', category: 'design', level: 3 },
   { name: 'UI/UX', icon: 'palette', category: 'design', level: 4 },
   { name: 'Responsive Design', icon: 'palette', category: 'design', level: 5 },
   
-  { name: 'Git', icon: 'wrench', category: 'tools', level: 5 },
-  { name: 'Webpack', icon: 'wrench', category: 'tools', level: 3 },
-  { name: 'Jest', icon: 'wrench', category: 'tools', level: 4 },
-  { name: 'CI/CD', icon: 'wrench', category: 'tools', level: 3 },
+  { name: 'Git', icon: 'wrench', category: 'ct', level: 3 },
+  { name: 'Machine Learning', icon: 'wrench', category: 'ct', level: 3 },
+  { name: 'Data Structures', icon: 'wrench', category: 'ct', level: 4.5 },
+  { name: 'Power BI', icon: 'wrench', category: 'ct', level: 4.5 },
 ];
 
 export const SOCIAL_LINKS: SocialLink[] = [
