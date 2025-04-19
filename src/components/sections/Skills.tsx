@@ -11,10 +11,10 @@ const Skills: React.FC = () => {
   });
 
   const skillCategories = [
-    { name: 'Frontend', icon: <Code size={24} />, value: 'frontend' },
-    { name: 'Backend', icon: <Server size={24} />, value: 'backend' },
+    { name: 'Programming Languages', icon: <Code size={24} />, value: 'pl' },
+    { name: 'Frameworks and Libraries', icon: <Server size={24} />, value: 'fl' },
     { name: 'Design', icon: <Palette size={24} />, value: 'design' },
-    { name: 'Tools', icon: <Wrench size={24} />, value: 'tools' },
+    { name: 'Concepts and Tools', icon: <Wrench size={24} />, value: 'ct' },
   ];
 
   return (
