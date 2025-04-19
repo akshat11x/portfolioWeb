@@ -100,7 +100,7 @@ export const SKILLS: Skill[] = [
   { name: 'Express', icon: 'server', category: 'fl', level: 4 },
   { name: 'MongoDB', icon: 'server', category: 'fl', level: 4 },
   { name: 'Tensorflow', icon: 'server', category: 'fl', level: 3 },
-  { name: 'Flask', icon: 'server', category: 'fl', level: 4 },
+  { name: 'Scikit Learn', icon: 'server', category: 'fl', level: 4 },
   { name: 'Numpy/Pandas', icon: 'server', category: 'fl', level: 5 },
   
   { name: 'Figma', icon: 'palette', category: 'design', level: 4 },
